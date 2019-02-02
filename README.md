@@ -1,2 +1,2 @@
-# dotnetstudies
-DotNet Studies
+# DotNetStudies
+.Net Studies
